@@ -1,5 +1,5 @@
-0x1B. C - Sorting algorithms & Big O
+# 0x1B. C - Sorting algorithms & Big O
 
-Collaborators:
+## Collaborators:
 1) Gabriel Emmanuel
 2) Josiah Praise
