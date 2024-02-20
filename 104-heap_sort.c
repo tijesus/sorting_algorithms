@@ -1,5 +1,10 @@
 #include "sort.h"
 
+
+void swap(int *a, int *b);
+void max_heapify(int *array, size_t size, size_t base, size_t root);
+void heap_sort(int *array, size_t size);
+
 /**
  * swap - Swap two values.
  * @a: The first element to swap.
